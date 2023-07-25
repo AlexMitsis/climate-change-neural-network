@@ -1,7 +1,6 @@
 # Intelligent Systems Project: Regression with Neural Networks and Climate Change Dataset
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your-notebook-url)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MpHNipkJbXBIJJ7dFO2uU7GykDMGVD6E?usp=sharing)
 ## Introduction
 
 This project focuses on regression using neural networks to predict temperature changes based on various climate-related variables. We'll be using the Climate Change dataset for this purpose. The project involves loading and preparing the dataset, creating a custom Dataset object for data loading, defining neural network architectures, training the models, and evaluating the results.
