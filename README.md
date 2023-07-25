@@ -1,4 +1,4 @@
-# Intelligent Systems Project: Regression with Neural Networks and Climate Change Dataset
+# Regression with Neural Networks and Climate Change Dataset
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MpHNipkJbXBIJJ7dFO2uU7GykDMGVD6E?usp=sharing)
 ## Introduction
